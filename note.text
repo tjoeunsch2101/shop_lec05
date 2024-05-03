@@ -14,7 +14,7 @@ Iterable<T> findAll()         :  모든 Entity 조회하기
  
  
  
-Query Method
+Query Method 쿼리메소드
 
 Repository Interface 에 정의된 naming rule을 사용해서
 추상 method 를 작성하면 Query 가 실행됨 
